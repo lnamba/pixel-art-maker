@@ -1,0 +1,15 @@
+#container {
+  margin: 0 auto;
+  padding: 0;
+}
+
+#colors {
+  /*display: inline-block;*/
+  margin: 0px auto;
+}
+
+#grid {
+  width: 70%;
+  margin: 0 auto;
+  /*border: 2px black solid;*/
+}
